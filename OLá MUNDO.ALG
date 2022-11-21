@@ -9,7 +9,8 @@ Var
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("Olá mundo")
+escreval("Bom dia")
 
 
 Fimalgoritmo
